@@ -1,0 +1,6 @@
+body{
+  width: 100%; /* 宽度占满整个屏幕 */
+  height: 100vh; /* 高度占满整个视口 */
+  overflow: hidden;
+  background-size:100% 100%;
+}
